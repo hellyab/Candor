@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Candor</string>
+    <string name="no_affiliation_string">The the brand names used in the app, including Facebook, Instagram and Twitter are respective brands of the companies, Blanco has no affiliation with any of them.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+        <string name="verify">Verify pic</string>
+        <string name="News_feed">News feed</string>
+        <string name="website">Go to our website</string>
+        <string name="change">Change language</string>
+        <string name="Share">Share</string>
+        <string name="Location">Location</string>
+        <string name="Date">Date</string>
+        <string name="Software">software</string>
+        <string name="upload">Click here to upload picture</string>
+        <string name="validate">Validate picture</string>
+        <string name="submit">Submit</string>
+        <string name="valid">valid</string>
+        <string name="Invalid">Invalid</string>
+        <string name="Size">size</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
